@@ -6,7 +6,21 @@
   },
   "dependencies": {
     "body-parser": "^1.20.3",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "nodemon": "^3.1.7"
-  }
+  },
+  "version": "1.0.0",
+  "description": "## **Problem Statement**",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok1047/testing_api_with_api_client_and_setting_up_your_database_assignment_2-forked-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alok1047/testing_api_with_api_client_and_setting_up_your_database_assignment_2-forked-/issues"
+  },
+  "homepage": "https://github.com/alok1047/testing_api_with_api_client_and_setting_up_your_database_assignment_2-forked-#readme"
 }
